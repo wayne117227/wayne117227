@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wayne117227
+- 👋 Hi, I’m @wayne
 -- 👀 I’m interested in programming language
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python Data Analysis,Visual measurement，Web crawler
